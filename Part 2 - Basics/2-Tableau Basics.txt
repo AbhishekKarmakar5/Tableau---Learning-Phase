@@ -1,0 +1,6 @@
+Its end of financial year that means time for annula bonus!
+
+The store operates in three regions and only the top-performing emploee in each region qualifies for a bonus
+Find out which three employees are eligible to get bonus for this year.
+
+Empoyees are measured on total sales ($$).
